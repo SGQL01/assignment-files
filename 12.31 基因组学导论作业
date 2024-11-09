@@ -1,0 +1,59 @@
+# 1. 人类基因组的大小以及基本组成
+
+* 大小：3,280,481,986 Base Pairs，约3.2G
+  
+  > Genome assembly GRCh38.p14, Feb 3, 2022 
+  > 
+  > Alexander et al., Nature Reviews, 2010
+
+* 基本组成：
+  
+  * 编码序列(Coding Sequences)
+  
+  * 非编码序列(Non-coding Sequences)
+  
+  * 重复序列(Repetitive Elements)
+  
+  * 功能性非编码区域(Functional Non-coding Regions)
+
+# 2. 基因中的非编码RNA的最新注释
+
+- 注释个数（不包含假基因）：
+  
+  - 46,695
+    
+    > Genome assembly GRCh38.p14(Primary Assembly), Aug 26 2024
+  
+  - 49,289
+    
+    > Genome assembly GRCh38.p14, Aug 26 2024
+
+- ncRNA细分种类及其数目
+  
+  > Genome assembly GRCh38.p14(**Primary Assembly***), Aug 26 2024
+  
+  | 类型             | 数目     | 解释                                                                                                                                                                                     |
+  |:--------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+  | miRNA          | 11,795 | Involved in RNA silencing and post-transcriptional regulation of gene expression. Reducing translation of the mRNA into proteins via shortening the poly(A) tail of target mRNA.       |
+  | tRNA           | 431    | Serves as a link between mRNA and the growing chain of amino acids that make up a protein.                                                                                             |
+  | lncRNA         | 30,104 | involved in various regulatory roles, including transcriptional and post-transcriptional gene expression modulation, by interacting with chromatin, proteins, and other RNA molecules. |
+  | snoRNA         | 1,194  | Involved in chemical modifications of other RNAs, primarily rRNA.                                                                                                                      |
+  | snRNA          | 152    | Play a key role in the splicing of pre-mRNA.                                                                                                                                           |
+  | rRNA           | 37     | Core structural and functional components of ribosomes.                                                                                                                                |
+  | misc_RNA       | 12,179 | A series of miscellaneous small RNA, **includes coding and non-coding RNAs**.                                                                                                          |
+  | vault_RNA      | 4      |                                                                                                                                                                                        |
+  | telomerase_RNA | 1      | a component of telomerase, the enzyme used to extend telomeres                                                                                                                         |
+  | RNase_MRP_RNA  | 1      |                                                                                                                                                                                        |
+  | RNase_P_RNA    | 1      |                                                                                                                                                                                        |
+  | Y_RNA          | 1      |                                                                                                                                                                                        |
+  | scRNA          | 4      | small conditional RNA                                                                                                                                                                  |
+  
+  ---
+  
+  <p align="right">上官巧玲 </p>
+  
+  <p align="right">北京大学__2401111642</p>
+  
+  <p align="right">2024/11/10</p>
+
+ 
